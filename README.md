@@ -5,7 +5,7 @@ FETCH package manager will allow deep and robust customization, dependency resol
 
 Binux looks toward using its own init, dinit, sinit, OpenRC, or Shepherd. Binux would like to provide flexibility in all choices including init, but will have an officially supported init for polish and documentation.
 
-Binux intends to support Musl primarily, with extensive containerization and documentation as needed for Glibc compatability.
+Binux intends to support GLIBC/COREUTILS initially.
 
 Binux will employ LibreSSL and kernel hardening by default, with Ryzen optimized builds.
 
