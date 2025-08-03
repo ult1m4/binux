@@ -7,6 +7,6 @@ Binux looks toward using its own init, dinit, sinit, OpenRC, or Shepherd. Binux 
 
 Binux intends to support Musl primarily, with extensive containerization and documentation as needed for Glibc compatability.
 
-Binux will employ LibreSSL and kernel haedening by default, with Ryzen optimized builds.
+Binux will employ LibreSSL and kernel hardening by default, with Ryzen optimized builds.
 
 Binux will be primarily built with T2 SDE and custom tooling.
